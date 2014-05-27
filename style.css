@@ -1,0 +1,27 @@
+<style>
+td {
+  text-align: right;
+  padding-left: 1em;
+}
+
+#w {
+  background-color: green;
+}
+#u {
+  background-color: red;
+}
+#e {
+  background-color: orange;
+}
+table {
+  width:100%;
+}
+
+div.warn {    
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
+  border-left: 5px solid #dfb5b4;
+  padding: 0.5em;
+}
+
+</style>
